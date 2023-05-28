@@ -10,6 +10,8 @@ The contract was deployed on a Avalance Fuji Test network and was developed usin
 
 The contract can be accessed in this address: "0x28903EA2c14E087a4f12b22266B0C99C9431A904" if would like to check the functions I used for the demo and verify their transactions.
 
+Use this link and just paste the contract address in the search bar: https://testnet.snowtrace.io
+
 ### Executing program
 
 To run this code will require an IDE, Node js and a library called hardhat.
